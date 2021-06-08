@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.studentapp.junit.studentsinfo.CreateStudentsDataDrivenTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.9 sec <<< FAILURE! - in com.studentapp.junit.studentsinfo.CreateStudentsDataDrivenTest
+createMultiplestudents(com.studentapp.junit.studentsinfo.CreateStudentsDataDrivenTest)  Time elapsed: 0.036 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.studentapp.junit.studentsinfo.CreateStudentsDataDrivenTest.createMultiplestudents(CreateStudentsDataDrivenTest.java:87)
+
